@@ -8,3 +8,6 @@ A page to describe
 
 ## Precursor SEtup
 - SkdMon (for SDK Version)
+
+### Via Brew
+- `brew install maven`
